@@ -1,0 +1,54 @@
+payload:
+  # transmission prot
+  - SRC-PORT,51412
+  - SRC-PORT,51413
+  - SRC-PORT,51414
+  - SRC-PORT,8085
+  # synology
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-KEYWORD,ingest.sentry.io
+  - DOMAIN-KEYWORD,dyndns.org
+  - DOMAIN,quickconnect
+
+  # pt tracker
+  - DOMAIN,pt.btschool.club
+  - DOMAIN,pterclub.com
+  - DOMAIN,routing.bgp.technology
+  - DOMAIN,audiences.me
+  - DOMAIN,cyanbug.net
+  - DOMAIN,hdfun.me
+  - DOMAIN,dajiao.cyou
+  - DOMAIN,chdbits.xyz
+  - DOMAIN,connects.icu
+  - DOMAIN,fsm-us.eu.org
+  - DOMAIN,ubits.club
+  - DOMAIN,star-space.net
+  - DOMAIN,routing.bgp.technology
+  - DOMAIN,localhost.stackoverflow.tech
+  - DOMAIN,ssl.empirehost.me
+  - DOMAIN,piggo.me
+
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,zhuque
+  - DOMAIN-KEYWORD,hdfans
+  - DOMAIN-KEYWORD,hhanclub
+  - DOMAIN-KEYWORD,pttime
+  - DOMAIN-KEYWORD,zmpt
+  - DOMAIN-KEYWORD,hhan
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,ptlsp
+  - DOMAIN-KEYWORD,isvjcloud
+  - DOMAIN-KEYWORD,1ptba
+  - DOMAIN-KEYWORD,hdkyl
+  - DOMAIN-KEYWORD,crabpt
+  - DOMAIN-KEYWORD,qingwa
+  - DOMAIN-KEYWORD,qhstudio
+
+  # test-ipv6
+  - DOMAIN-KEYWORD,test-ipv6
+  - DOMAIN-KEYWORD,ipinfo
+  - SRC-IP-CIDR,192.168.31.113/32
+  - DOMAIN-KEYWORD,speedtest
+  #plex
+  - DOMAIN,plex.tv
+  - DOMAIN,v4.plex.tv
