@@ -22,7 +22,7 @@ payload:
   - DOMAIN,connects.icu
   - DOMAIN,fsm-us.eu.org
   - DOMAIN,ubits.club
-  - DOMAIN,star-space.net
+  # - DOMAIN,star-space.net
   - DOMAIN,routing.bgp.technology
   - DOMAIN,localhost.stackoverflow.tech
   - DOMAIN,ssl.empirehost.me
