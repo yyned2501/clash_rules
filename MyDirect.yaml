@@ -43,7 +43,7 @@ payload:
   - DOMAIN-KEYWORD,crabpt
   - DOMAIN-KEYWORD,qingwa
   - DOMAIN-KEYWORD,qhstudio
-
+  - DOMAIN,daydream.dmhy.best
   # test-ipv6
   - DOMAIN-KEYWORD,test-ipv6
   - DOMAIN-KEYWORD,ipinfo
@@ -52,3 +52,4 @@ payload:
   #plex
   - DOMAIN,plex.tv
   - DOMAIN,v4.plex.tv
+
