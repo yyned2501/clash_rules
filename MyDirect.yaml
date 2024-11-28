@@ -31,7 +31,7 @@ payload:
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,zhuque
   - DOMAIN-KEYWORD,hdfans
-  - DOMAIN-KEYWORD,hhanclub
+  # - DOMAIN-KEYWORD,hhanclub
   - DOMAIN-KEYWORD,pttime
   - DOMAIN-KEYWORD,zmpt
   - DOMAIN-KEYWORD,hhan
