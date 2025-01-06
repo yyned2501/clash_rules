@@ -5,7 +5,6 @@ payload:
   - DOMAIN,www.agsvpt.com
   - DOMAIN,u2.dmhy.org
   - DOMAIN,v4.plex.tv,DIRECT
-  - DOMAIN,plex.tv,DIRECT
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN,byr.pt
   - DOMAIN,pterclub.com
