@@ -52,4 +52,6 @@ payload:
   - DOMAIN,v4.plex.tv
 
   - IP-CIDR,150.230.6.61/32
+  - IP-CIDR,156.224.77.15/32
+  
   - DOMAIN-KEYWORD,opendns.com
