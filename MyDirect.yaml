@@ -55,3 +55,9 @@ payload:
   - IP-CIDR,156.224.77.15/32
   
   - DOMAIN-KEYWORD,opendns.com
+  - DOMAIN-KEYWORD,ddns.oray.com
+  - DOMAIN-KEYWORD,6.666666.host
+  - DOMAIN-KEYWORD,ip.3322.net
+  - DOMAIN-KEYWORD,taobao.com
+  - DOMAIN-KEYWORD,ipv4.ddnspod.com
+  - DOMAIN-KEYWORD,4.ipw.cn
