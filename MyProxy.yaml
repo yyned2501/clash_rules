@@ -9,7 +9,7 @@ payload:
   - DOMAIN,plex.tv,DIRECT
   - DOMAIN-KEYWORD,plex.direct,DIRECT
   - DOMAIN,assets.plex.tv,DIRECT
-  - DOMAIN-SUFFIX,plex.tv
+  # - DOMAIN-SUFFIX,plex.tv
   - DOMAIN,byr.pt
   - DOMAIN,pterclub.com
   - DOMAIN,hdkyl.in
