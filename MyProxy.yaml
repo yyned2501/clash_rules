@@ -13,6 +13,7 @@ payload:
   - DOMAIN,clients.plex.tv
   - DOMAIN,analytics.plex.tv
   - DOMAIN,discover.provider.plex.tv
+  - DOMAIN,assets.plex.tv
   - DOMAIN,byr.pt
   - DOMAIN,pterclub.com
   - DOMAIN,hdkyl.in
