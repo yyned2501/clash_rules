@@ -50,6 +50,11 @@ payload:
   #plex
   - DOMAIN,plex.tv
   - DOMAIN,v4.plex.tv
+  - DOMAIN,v4.plex.tv
+  - DOMAIN,community.plex.tv
+  - DOMAIN,plex.tv
+  - DOMAIN-KEYWORD,plex.direct
+  - DOMAIN,assets.plex.tv
 
   - IP-CIDR,150.230.6.61/32
   - IP-CIDR,156.224.77.15/32
