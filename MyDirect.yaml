@@ -27,6 +27,7 @@ payload:
   - DOMAIN,localhost.stackoverflow.tech
   - DOMAIN,ssl.empirehost.me
   - DOMAIN,piggo.me
+  - DOMAIN-KEYWORD,hhan.club,PROXY
 
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,zhuque
