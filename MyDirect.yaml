@@ -11,37 +11,7 @@ payload:
   - DOMAIN,quickconnect
 
   # pt tracker
-  - DOMAIN,pt.btschool.club
-  - DOMAIN,pterclub.com
-  - DOMAIN,routing.bgp.technology
-  - DOMAIN,audiences.me
-  - DOMAIN,cyanbug.net
-  - DOMAIN,hdfun.me
-  - DOMAIN,dajiao.cyou
-  - DOMAIN,chdbits.xyz
-  - DOMAIN,connects.icu
-  - DOMAIN,fsm-us.eu.org
-  - DOMAIN,ubits.club
-  # - DOMAIN,star-space.net
-  - DOMAIN,routing.bgp.technology
-  - DOMAIN,localhost.stackoverflow.tech
-  - DOMAIN,ssl.empirehost.me
-  - DOMAIN,piggo.me
-
   - DOMAIN-KEYWORD,tracker
-  - DOMAIN-KEYWORD,zhuque
-  - DOMAIN-KEYWORD,hdfans
-  # - DOMAIN-KEYWORD,hhanclub
-  - DOMAIN-KEYWORD,pttime
-  - DOMAIN-KEYWORD,zmpt
-  - DOMAIN-KEYWORD,m-team
-  - DOMAIN-KEYWORD,ptlsp
-  - DOMAIN-KEYWORD,isvjcloud
-  - DOMAIN-KEYWORD,1ptba
-  - DOMAIN-KEYWORD,crabpt
-  - DOMAIN-KEYWORD,qingwa
-  - DOMAIN-KEYWORD,qhstudio
-  - DOMAIN,daydream.dmhy.best
   # test-ipv6
   - DOMAIN-KEYWORD,test-ipv6
   - DOMAIN-KEYWORD,ipinfo
