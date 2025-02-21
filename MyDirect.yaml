@@ -20,9 +20,7 @@ payload:
   #plex
   - DOMAIN,plex.tv
   - DOMAIN,v4.plex.tv
-  - DOMAIN,v4.plex.tv
   - DOMAIN,community.plex.tv
-  - DOMAIN,plex.tv
   - DOMAIN-KEYWORD,plex.direct
   - DOMAIN,assets.plex.tv
 
@@ -31,15 +29,10 @@ payload:
   
   - DOMAIN-KEYWORD,opendns.com
   - DOMAIN-KEYWORD,ddns.oray.com
-  - DOMAIN-KEYWORD,6.666666.host
   - DOMAIN-KEYWORD,ip.3322.net
   - DOMAIN-KEYWORD,taobao.com
   - DOMAIN-KEYWORD,ipv4.ddnspod.com
-  - DOMAIN-KEYWORD,4.ipw.cn
   - DOMAIN-KEYWORD,myip.ipip.net
-  - DOMAIN-KEYWORD,v4.666666.host
-  - DOMAIN-KEYWORD,ipv4.ddnspod.com
   - DOMAIN-KEYWORD,v4.66666.host
   - DOMAIN-KEYWORD,ipw.cn
-  - DOMAIN-KEYWORD,ip.3322.net
   - DOMAIN-KEYWORD,6.66666.host
