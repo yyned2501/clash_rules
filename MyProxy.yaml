@@ -24,3 +24,4 @@ payload:
   - DOMAIN,translate.googleapis.com
   - DOMAIN,sehuatang.net
   - DOMAIN-SUFFIX,dobgcyy.xyz
+  - DOMAIN-KEYWORD,grok
