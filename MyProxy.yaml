@@ -25,10 +25,14 @@ payload:
   - DOMAIN,sehuatang.net
   - DOMAIN-SUFFIX,dobgcyy.xyz
   - DOMAIN-KEYWORD,grok
-  - DOMAIN-KEYWORD,airav-tv8
-  - DOMAIN-KEYWORD,jav321
-  - DOMAIN-KEYWORD,freejavbt
 
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,share.ilolicon.com
+
+# mdc
+  - DOMAIN-KEYWORD,airav-tv8
+  - DOMAIN-KEYWORD,jav321
+  - DOMAIN-KEYWORD,freejavbt
+  - DOMAIN-KEYWORD,7mmtv.sx
+  - DOMAIN-KEYWORD,javdb.com
