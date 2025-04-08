@@ -15,10 +15,10 @@ payload:
   - DOMAIN,discover.provider.plex.tv
   - DOMAIN,assets.plex.tv
   - DOMAIN,byr.pt
-  - DOMAIN,pterclub.com
+  #- DOMAIN,pterclub.com
   - DOMAIN,hdkyl.in
-  - DOMAIN-KEYWORD,hhanclub
-  - DOMAIN-KEYWORD,hhan.club
+  #- DOMAIN-KEYWORD,hhanclub
+  #- DOMAIN-KEYWORD,hhan.club
   - DOMAIN-KEYWORD,diliai.net
   - DOMAIN-KEYWORD,invites.fun
   - DOMAIN,translate.googleapis.com
