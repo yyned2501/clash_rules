@@ -12,6 +12,7 @@ payload:
 
   # pt tracker
   - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,t.audiences.me
   # test-ipv6
   - DOMAIN-KEYWORD,test-ipv6
   - DOMAIN-KEYWORD,ipinfo
