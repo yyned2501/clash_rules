@@ -17,6 +17,7 @@ payload:
   - DOMAIN,byr.pt
   #- DOMAIN,pterclub.com
   - DOMAIN,hdkyl.in
+  - DOMAIN,audiences.me
   - DOMAIN-KEYWORD,hhanclub
   - DOMAIN-KEYWORD,hhan.club
   - DOMAIN-KEYWORD,diliai.net
