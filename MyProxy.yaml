@@ -1,31 +1,10 @@
 payload:
-  - DOMAIN-KEYWORD,xvideos
-  - DOMAIN-KEYWORD,livejasmin.com
   - DOMAIN-KEYWORD,unraid.net
-  - DOMAIN,www.agsvpt.com
-  - DOMAIN,u2.dmhy.org
-  - DOMAIN,v4.plex.tv,DIRECT
-  - DOMAIN,community.plex.tv,DIRECT
-  - DOMAIN,plex.tv,DIRECT
-  - DOMAIN-KEYWORD,plex.direct,DIRECT
-  - DOMAIN,assets.plex.tv,DIRECT
-  # - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN,clients.plex.tv
-  - DOMAIN,analytics.plex.tv
-  - DOMAIN,discover.provider.plex.tv
-  - DOMAIN,assets.plex.tv
-  - DOMAIN,byr.pt
-  #- DOMAIN,pterclub.com
-  - DOMAIN,hdkyl.in
-  - DOMAIN,audiences.me
-  - DOMAIN-KEYWORD,hhanclub
-  - DOMAIN-KEYWORD,hhan.club
-  - DOMAIN-KEYWORD,diliai.net
   - DOMAIN-KEYWORD,invites.fun
-  - DOMAIN,translate.googleapis.com
   - DOMAIN,sehuatang.net
+  
+# grok
   - DOMAIN-KEYWORD,grok
-
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,share.ilolicon.com
