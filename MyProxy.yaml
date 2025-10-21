@@ -10,6 +10,24 @@ payload:
   - DOMAIN-SUFFIX,share.ilolicon.com
 
 # mdc
+  - DOMAIN-SUFFIX,airav.wiki
+  - DOMAIN-SUFFIX,airav.io
+  - DOMAIN-SUFFIX,arzon.jp
+  - DOMAIN-SUFFIX,avbase.net
+  - DOMAIN-SUFFIX,caribbeancom.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,fc2hub.com
+  - DOMAIN-SUFFIX,freejavbt.com
+  - DOMAIN-SUFFIX,hbox.jp
+  - DOMAIN-SUFFIX,jav321.com
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN-SUFFIX,madou.club
+  - DOMAIN-SUFFIX,madouqu.com
+  - DOMAIN-SUFFIX,mgstage.com
+  - DOMAIN-SUFFIX,7mmtv.sx
   - DOMAIN-KEYWORD,airav-tv8
   - DOMAIN-KEYWORD,jav321
   - DOMAIN-KEYWORD,freejavbt
@@ -17,5 +35,7 @@ payload:
   - DOMAIN-KEYWORD,javdb.com
   - DOMAIN-KEYWORD,madou.club
   - DOMAIN-KEYWORD,madouqu.com
-  - DOMAIN-KEYWORD,javdb.com
+  - DOMAIN-KEYWORD,javbus
   - DOMAIN-KEYWORD,airav
+  - DOMAIN-KEYWORD,avbase
+  
