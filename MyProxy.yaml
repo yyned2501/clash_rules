@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,unraid.net
   - DOMAIN-KEYWORD,invites.fun
-  - DOMAIN,sehuatang.net
+  - DOMAIN-KEYWORD,sehuatang
   
 # grok
   - DOMAIN-KEYWORD,grok
